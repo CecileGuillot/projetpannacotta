@@ -5,8 +5,7 @@
 
 Je trouvais ça interessant d'essayer de mettre en page ma recette de panna cotta. 
 
-
-## lien vers les differents Document :
+ lien vers les differents Document :
 
 
 [Le document html](./projetpannacotta/html/index.html)

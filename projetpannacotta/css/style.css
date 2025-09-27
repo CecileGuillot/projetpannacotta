@@ -1,13 +1,44 @@
 /*base*/
-:root {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin: 100px;
-    background-color: rgb(219, 211, 177);
-    padding: 100px;
-    box-sizing: border-box;
-    line-height: 1.5;
+
+
+
+
+@import url(https://fonts.bunny.net/css?family=alata:400);
+
+
+html {
+    padding: 2rem;
 }
 
+
+
+header {
+    text-align: center;
+    position: fixed;
+    background-color: rgba(245, 245, 220, 0.6);
+    border-radius: 2rem;
+}
+
+img {
+    border: solid 10px;
+
+}
+
+
+
+p {
+    padding: 1rem;
+    text-align: center;
+
+
+}
+
+.container {
+    background-color: rgb(228, 223, 195);
+    max-width: 900px;
+    margin: 1rem auto;
+    border: solid 1px;
+}
 
 .petit {
     font-size: 15px;
@@ -19,7 +50,6 @@
     padding: 20px display: block;
     margin: 0 auto;
     width: 300px;
-
     height: auto;
 }
 
@@ -38,12 +68,14 @@ h2 {
 
 
 
-p {
-    font-size: 20px;
-    border-bottom: 3px black;
 
 
+.signature {
+    font-size: 25px;
+    font-style: italic;
 }
+
+
 
 
 
@@ -65,4 +97,5 @@ footer {
     background-color: brown;
     padding: 20px;
     text-align: center;
+    padding: 50px;
 }
