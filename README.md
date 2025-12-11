@@ -1,6 +1,5 @@
 # Le Projet Panna Cotta
-
-
+Ceci est mon premier projet, fait lors de mes debuts de formation Frontend, utilisation de HTML et CSS uniquement
 ## Pourquoi ?
 
 Je trouvais ça interessant d'essayer de mettre en page ma recette de panna cotta. 
